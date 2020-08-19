@@ -1,0 +1,19 @@
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.container header {
+  height: 100px;
+  background: lightskyblue;
+}
+
+.container footer {
+  height: 100px;
+  background: lightpink;
+}
+
+.container section {
+  flex: 1;
+}
